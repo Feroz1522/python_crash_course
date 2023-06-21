@@ -1,0 +1,14 @@
+key = True
+while key:
+    engine = False
+    car = input(">> ")
+    if car == "start":
+        print("engine has been started")
+        engine = True
+        continue
+    elif car == "stop":
+        print("car has been stopped")
+        engine = False
+    elif car == "quit":
+        print("exited the game")
+        break
