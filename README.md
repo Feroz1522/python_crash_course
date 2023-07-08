@@ -1,4 +1,6 @@
 <img src = "python.png" >
-# python_crash_course
-This repository is based on completion of the Tasks which has been given on the Book.
-I will upload the files based on chapter wise..
+<h1>About </h1>
+<h3>This  Repositary is for completing the exercise which has been given from the Book 
+<b><i>PYTHON CRASH COURSE </i></b> second edition <br> 
+<h1>Author</h1>
+<b>ehmatthes</b></h3> 
